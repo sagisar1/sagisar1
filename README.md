@@ -32,6 +32,7 @@
 ![Shodan](https://raw.githubusercontent.com/sagisar1/custom-badges/refs/heads/main/custom%20badges/Shodan.svg)
 ![dirsearch](https://raw.githubusercontent.com/sagisar1/custom-badges/refs/heads/main/custom%20badges/dirsearch.svg)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6F00?style=flat&logo=burpsuite&logoColor=white)
+![Impacket](https://raw.githubusercontent.com/sagisar1/custom-badges/refs/heads/main/custom%20badges/impacket.svg)
 ![Responder](https://raw.githubusercontent.com/sagisar1/custom-badges/refs/heads/main/custom%20badges/responder.svg)
 ![Mimikatz](https://raw.githubusercontent.com/sagisar1/custom-badges/refs/heads/main/custom%20badges/Mimikatz.svg)
 </br></br>
