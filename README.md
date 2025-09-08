@@ -36,7 +36,7 @@ and understanding how systems, computers, communication protocols and applicatio
 
 ## 📊 Stats
 <div width="100%" align="center">
-    <a href="https://github.com/sagisar1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://git.io/streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sagisar1&theme=react&border=61dafb&hide_border=true" alt="GitHub Stats" />
     </a>
 </div>
