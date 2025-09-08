@@ -18,7 +18,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagisar1&layout=compact&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagisar1&layout=compact&theme=react)  
 
 
 ## 🛠️ Other Tools
