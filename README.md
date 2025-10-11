@@ -51,7 +51,7 @@ and understanding how systems, computers, communication protocols and applicatio
 </div><br>
 <h4 align="center">
   <a href="https://github.com/sagisar1?tab=repositories" title="Show Repositories">Show More</a>
-</h4><br><br>
+</h4><br>
 
 ## 🔗 Connect with me
 
