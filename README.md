@@ -42,17 +42,17 @@ and understanding how systems, computers, communication protocols and applicatio
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-## 🚀 My favorite Repositories
+## 🚀 My favorite repositories
 <div width="100%" align="center">
   <a href="https://github.com/sagisar1/AD_Exploiter" title="AD Exploiter"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=sagisar1&repo=AD_Exploiter&theme=react" width="350" alt="AD Exploiter">
   </a>
   
   <a href="https://github.com/sagisar1/basic_port_scanner" title="Python-based Port Scanner"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=sagisar1&repo=basic_port_scanner&theme=react" width="350" alt="Python-based Port Scanner">
   </a>
-</div>  
+</div>
 <h4 align="center">
   <a href="https://github.com/sagisar1?tab=repositories" title="Show Repositories">Show More</a>
-</h4>
+</h4><br><br><br> 
 
 ## 🔗 Connect with me
 
